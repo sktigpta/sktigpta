@@ -19,148 +19,44 @@ Welcome to my GitHub profile! I'm **Shaktidhar Gupta**, an enthusiastic develope
 ---
 
 ### 🛠️ Skills:
+
 <div align="center">
-  <style>
-    .skills-container {
-      display: flex;
-      flex-direction: column;
-      align-items: center;
-      gap: 24px;
-    }
-    .category-title {
-      font-size: 18px;
-      font-weight: bold;
-      margin-bottom: 8px;
-      color: #555;
-    }
-    .category-row {
-      display: flex;
-      flex-wrap: wrap;
-      justify-content: center;
-      gap: 16px;
-    }
-    .skill-card {
-      display: flex;
-      flex-direction: column;
-      align-items: center;
-      justify-content: center;
-      width: 100px;
-      height: 120px;
-      border: 1px solid #ddd;
-      border-radius: 8px;
-      box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
-      padding: 10px;
-      background-color: #f9f9f9;
-    }
-    .skill-card img {
-      width: 40px;
-      height: 40px;
-      margin-bottom: 8px;
-    }
-    .skill-card span {
-      font-size: 12px;
-      font-weight: bold;
-      text-align: center;
-    }
-  </style>
 
-  <div class="skills-container">
+<table>
+  <thead>
+    <tr>
+      <th style="background-color: gray;">Category</th>
+      <th style="backgroundcolor: gray;">Technologies</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><b>Programming</b></td>
+      <td>C++, Python, JavaScript, TypeScript</td>
+    </tr>
+    <tr>
+      <td><b>Web Development</b></td>
+      <td>HTML, CSS, React, Node.js, Electron</td>
+    </tr>
+    <tr>
+      <td><b>Tools</b></td>
+      <td>Git, Docker, Qt Framework, Postman</td>
+    </tr>
+    <tr>
+      <td><b>Database</b></td>
+      <td>MySQL, MongoDB</td>
+    </tr>
+    <tr>
+      <td><b>Cloud Platforms</b></td>
+      <td>AWS, Firebase</td>
+    </tr>
+    <tr>
+      <td><b>Other Skills</b></td>
+      <td>Agile Methodologies, Software Project Management, IoT, AI Integration</td>
+    </tr>
+  </tbody>
+</table>
 
-    <div>
-      <div class="category-title">Programming</div>
-      <div class="category-row">
-        <div class="skill-card">
-          <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" alt="C++">
-          <span>C++</span>
-        </div>
-        <div class="skill-card">
-          <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python">
-          <span>Python</span>
-        </div>
-        <div class="skill-card">
-          <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript">
-          <span>JavaScript</span>
-        </div>
-        <div class="skill-card">
-          <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" alt="TypeScript">
-          <span>TypeScript</span>
-        </div>
-      </div>
-    </div>
-
-    <div>
-      <div class="category-title">Web Development</div>
-      <div class="category-row">
-        <div class="skill-card">
-          <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="HTML5">
-          <span>HTML</span>
-        </div>
-        <div class="skill-card">
-          <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="CSS3">
-          <span>CSS</span>
-        </div>
-        <div class="skill-card">
-          <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="React">
-          <span>React</span>
-        </div>
-        <div class="skill-card">
-          <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" alt="Node.js">
-          <span>Node.js</span>
-        </div>
-      </div>
-    </div>
-
-    <div>
-      <div class="category-title">Tools</div>
-      <div class="category-row">
-        <div class="skill-card">
-          <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="Git">
-          <span>Git</span>
-        </div>
-        <div class="skill-card">
-          <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" alt="Docker">
-          <span>Docker</span>
-        </div>
-        <div class="skill-card">
-          <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/qt/qt-original.svg" alt="Qt">
-          <span>Qt Framework</span>
-        </div>
-        <div class="skill-card">
-          <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="Postman">
-          <span>Postman</span>
-        </div>
-      </div>
-    </div>
-
-    <div>
-      <div class="category-title">Databases</div>
-      <div class="category-row">
-        <div class="skill-card">
-          <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" alt="MySQL">
-          <span>MySQL</span>
-        </div>
-        <div class="skill-card">
-          <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" alt="MongoDB">
-          <span>MongoDB</span>
-        </div>
-      </div>
-    </div>
-
-    <div>
-      <div class="category-title">Cloud Platforms</div>
-      <div class="category-row">
-        <div class="skill-card">
-          <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg" alt="AWS">
-          <span>AWS</span>
-        </div>
-        <div class="skill-card">
-          <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" alt="Firebase">
-          <span>Firebase</span>
-        </div>
-      </div>
-    </div>
-
-  </div>
 </div>
 
 ---
