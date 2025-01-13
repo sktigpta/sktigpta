@@ -20,16 +20,72 @@ Welcome to my GitHub profile! I'm **Shaktidhar Gupta**, an enthusiastic develope
 
 ### 🛠️ Skills:
 <div align="center">
+  <style>
+    .skills-container {
+      display: flex;
+      flex-wrap: wrap;
+      justify-content: center;
+      gap: 16px;
+    }
+    .skill-card {
+      display: flex;
+      flex-direction: column;
+      align-items: center;
+      justify-content: center;
+      width: 120px;
+      height: 150px;
+      border: 1px solid #ddd;
+      border-radius: 8px;
+      box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+      padding: 16px;
+      background-color: #f9f9f9;
+    }
+    .skill-card img {
+      width: 50px;
+      height: 50px;
+      margin-bottom: 8px;
+    }
+    .skill-card span {
+      font-size: 14px;
+      font-weight: bold;
+      text-align: center;
+    }
+  </style>
 
-| **Category**       | **Technologies**                                                                 |
-|---------------------|---------------------------------------------------------------------------------|
-| **Programming**    | C++, Python, JavaScript, TypeScript                                             |
-| **Web Development**| HTML, CSS, React, Node.js, Electron                                            |
-| **Tools**          | Git, Docker, Qt Framework, Postman                                             |
-| **Database**       | MySQL, MongoDB                                                                 |
-| **Cloud Platforms**| AWS, Firebase                                                                  |
-| **Other Skills**   | Agile Methodologies, Software Project Management, IoT, AI Integration          |
-
+  <div class="skills-container">
+    <div class="skill-card">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" alt="C++">
+      <span>C++</span>
+    </div>
+    <div class="skill-card">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python">
+      <span>Python</span>
+    </div>
+    <div class="skill-card">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript">
+      <span>JavaScript</span>
+    </div>
+    <div class="skill-card">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" alt="TypeScript">
+      <span>TypeScript</span>
+    </div>
+    <div class="skill-card">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="HTML5">
+      <span>HTML</span>
+    </div>
+    <div class="skill-card">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="CSS3">
+      <span>CSS</span>
+    </div>
+    <div class="skill-card">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="React">
+      <span>React</span>
+    </div>
+    <div class="skill-card">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" alt="Node.js">
+      <span>Node.js</span>
+    </div>
+  </div>
 </div>
 
 ---
