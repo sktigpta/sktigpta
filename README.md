@@ -19,6 +19,8 @@ Welcome to my GitHub profile! I'm **Shaktidhar Gupta**, an enthusiastic develope
 ---
 
 ### 🛠️ Skills:
+<div align="center">
+
 | **Category**       | **Technologies**                                                                 |
 |---------------------|---------------------------------------------------------------------------------|
 | **Programming**    | C++, Python, JavaScript, TypeScript                                             |
@@ -27,6 +29,8 @@ Welcome to my GitHub profile! I'm **Shaktidhar Gupta**, an enthusiastic develope
 | **Database**       | MySQL, MongoDB                                                                 |
 | **Cloud Platforms**| AWS, Firebase                                                                  |
 | **Other Skills**   | Agile Methodologies, Software Project Management, IoT, AI Integration          |
+
+</div>
 
 ---
 
