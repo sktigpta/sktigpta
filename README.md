@@ -84,7 +84,7 @@ Welcome to my GitHub profile! I'm **Shaktidhar Gupta**, an enthusiastic develope
 ### 📫 How to Reach Me:
 - **Email**: sktigpta@gmail.com
 - **LinkedIn**: [LinkedIn Profile](https://linkedin.com/in/sktigpta)
-- **Portfolio**: [Portfolio Website](https://portfolio.shaktidhar.pigoo.in/)
+- **Portfolio**: [Portfolio Website](https://me.pigoo.in/)
 
 ---
 
