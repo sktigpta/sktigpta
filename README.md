@@ -87,6 +87,12 @@ Welcome to my GitHub profile! I'm **Shaktidhar Gupta**, an enthusiastic develope
 - **Portfolio**: [Portfolio Website](https://me.pigoo.in/)
 
 ---
+### 📃 Papers:
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.16390494.svg)](https://doi.org/10.5281/zenodo.16390494)
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.16390047.svg)](https://doi.org/10.5281/zenodo.16390047)
+
+
+---
 
 ### 😄 Pronouns:
 - He/Him
